@@ -1,3 +1,7 @@
 module-meucci/node_modules
 module-meucci/dist
 module-meucci/package-lock.json
+
+module-pascoli/node_modules
+module-pascoli/dist
+module-pascoli/package-lock.json
